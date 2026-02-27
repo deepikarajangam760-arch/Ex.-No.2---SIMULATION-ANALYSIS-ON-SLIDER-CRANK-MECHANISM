@@ -37,17 +37,14 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/23ca1772-5a92-4b8b-a8bc-e149da33d297)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/d1412f9a-dcab-4433-a9a5-b5d6d19257b9)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/b703f1f3-def1-4fd9-a9da-6b5c4d57b632)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
-
 ## Output
+![WhatsApp Image 2026-02-27 at 1 07 40 PM](https://github.com/user-attachments/assets/2f3eb710-176a-4247-9f4c-7bec52bb9242)
+![WhatsApp Image 2026-02-27 at 1 07 57 PM](https://github.com/user-attachments/assets/4dcdabb1-d63c-4f29-a61b-1453e813d12a)
+![WhatsApp Image 2026-02-27 at 1 08 13 PM](https://github.com/user-attachments/assets/42a8067a-1a17-424d-aad9-69fb8c826caf)
 
 
-### Name:
-### Register Number: 
+### Name:R.DEEPIKA
+### Register Number: 212225230046
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
